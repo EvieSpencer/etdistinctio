@@ -1,0 +1,20 @@
+{
+  "name": "etdistinctio",
+  "version": "1.0.0",
+  "description": "A connect middleware to serve a RESTful api by some json and js files",
+  "main": "api-mocker.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/EvieSpencer/etdistinctio.git"
+  },
+  "keywords": [
+    "et",
+    "rerum",
+    "mock"
+  ],
+  "author": "JohannaChristiansen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EvieSpencer/etdistinctio.git/issues"
+  }
+}
